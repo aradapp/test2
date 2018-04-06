@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoPlot", "GeoPlot\GeoPlot.csproj", "{E0BD743C-795D-4686-9736-DD3BB29E15FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0BD743C-795D-4686-9736-DD3BB29E15FD}.Debug|x86.ActiveCfg = Debug|x86
+		{E0BD743C-795D-4686-9736-DD3BB29E15FD}.Debug|x86.Build.0 = Debug|x86
+		{E0BD743C-795D-4686-9736-DD3BB29E15FD}.Release|x86.ActiveCfg = Release|x86
+		{E0BD743C-795D-4686-9736-DD3BB29E15FD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
